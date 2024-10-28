@@ -6,3 +6,6 @@ Framework: TestNG
 Assertion: AssertJ
 Reporting: Extent Report
 I have applied and used the method chainin in this project as used by selenium developers
+
+
+Credits To: TMB youtube channel, Rahul shetty, and Naveen Automation Lab
