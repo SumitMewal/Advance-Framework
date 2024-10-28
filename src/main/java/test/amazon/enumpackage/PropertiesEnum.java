@@ -1,0 +1,12 @@
+package test.amazon.enumpackage;
+
+public enum PropertiesEnum {
+	URL,
+	OVERRIDEREPORT,
+	PASSEDSTEPSCREENSHOTS,
+	FAILEDSTEPSCREENSHOTS,
+	SKIPPEDSTEPSCREENSHOTS,
+	BROWSER;
+	
+
+}
